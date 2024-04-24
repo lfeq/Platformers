@@ -1,0 +1,9 @@
+[submodule "Cocos-Platformer"]
+	path = Cocos-Platformer
+	url = https://github.com/lfeq/Cocos-Platformer
+[submodule "Mario-64"]
+	path = Mario-64
+	url = https://github.com/lfeq/Mario-64
+[submodule "Serene-Monk-Adventures"]
+	path = Serene-Monk-Adventures
+	url = https://github.com/lfeq/Serene-Monk-Adventures
