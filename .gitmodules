@@ -7,3 +7,6 @@
 [submodule "Serene-Monk-Adventures"]
 	path = Serene-Monk-Adventures
 	url = https://github.com/lfeq/Serene-Monk-Adventures
+[submodule "Platformer-in-Cryengine"]
+	path = Platformer-in-Cryengine
+	url = https://github.com/lfeq/Platformer-in-Cryengine
